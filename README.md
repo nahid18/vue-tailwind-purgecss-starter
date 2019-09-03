@@ -1,4 +1,4 @@
-# vue-cli
+# vue-tailwind-purgecss-starter
 
 Setting up Tailwind with vue-cli is really simple, just install Tailwind:
 
